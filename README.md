@@ -25,7 +25,7 @@ Setiap mahasiswa hanya perlu mencatat keaktifannya satu poin per hari.
 | 18 | 5111740000102 | MUHAMMAD HARITS FADLILAH         |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 19 | 5111740000107 | SHELLA AGUSTIO NAINGGOLAN        |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 20 | 5111740000113 | OCTAVIANUS GIOVANNI YAUNATAN     |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
-| 21 | 5111740000114 | KOMANG YOGANANDA MAHAPUTRA WISNA |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
+| 21 | 5111740000114 | KOMANG YOGANANDA MAHAPUTRA WISNA |   |   |   |   |   |   |   |   |   |    |    |    |    |    |  1 |
 | 22 | 5111740000116 | FADHIL MUSAAD AL GIFFARY         |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 23 | 5111740000122 | MUHAMMAD HUSNI RIDHART AZZIKRY   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 24 | 5111740000129 | MOHAMMAD IMAN AFFANDY            |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
