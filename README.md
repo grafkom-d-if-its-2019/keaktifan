@@ -17,7 +17,7 @@ Setiap mahasiswa hanya perlu mencatat keaktifannya satu poin per hari.
 | 10 | 5111740000063 | DARFI SULTONI                    |   |   |   |   |   |   |   | 1 |   |    |    |    |    |    |    |
 | 11 | 5111740000074 | BAGAS YANUAR SUDRAJAD            |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 12 | 5111740000075 | MUHAMMAD RAFI FADHILAH           |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
-| 13 | 5111740000078 | MHD.FADLY HASAN                  |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
+| 13 | 5111740000078 | MHD.FADLY HASAN                  |   |   |   |   |   |   |   | 1 |   |    |    |    |    |    |    |
 | 14 | 5111740000080 | DION DEVARA ARYASATYA            |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 15 | 5111740000083 | DICKY MAULANA ROZI               |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
 | 16 | 5111740000086 | NOVAN ARDHANA                    |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |
